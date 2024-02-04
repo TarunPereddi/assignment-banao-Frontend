@@ -7,5 +7,5 @@ You can see the demo of this project [here](https://assignment-banao-frontend.ve
 
 Here are some screenshots of the app:
 
-![mobile view](screenshots\desktop.png)
-![Laptop view](screenshots\mobile.png)
+![mobile view](screenshots/desktop.png)
+![Laptop view](screenshots/mobile.png)
